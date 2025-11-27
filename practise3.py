@@ -55,3 +55,4 @@ print("信箱是否是以xxx開頭:",tastemail.startswith("xxx"))
 print("信箱是否是@gmail.com結尾:",tastemail.endswith("@gmail.com"))
 #信箱是否是@gmail.com結尾
 
+
